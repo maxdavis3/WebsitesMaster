@@ -5,13 +5,13 @@
 
 /* CSS Custom Properties */
 :root {
-    --primary: #B71C1C;
-    --secondary: #E53935;
-    --accent: #FFC107;
-    --background: #FFF5F5;
-    --text: #1A1A1A;
-    --font-heading: 'Montserrat', sans-serif;
-    --font-body: 'Noto Sans', sans-serif;
+    --primary: #2c3e50;
+    --secondary: #34495e;
+    --accent: #16a085;
+    --background: #f8f9fa;
+    --text: #2c3e50;
+    --font-heading: 'Roboto', sans-serif;
+    --font-body: 'Lato', sans-serif;
     --radius: 6px;
     --card-radius: 8px;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
@@ -179,7 +179,9 @@ img {
 .hero {
     padding: 6rem 1.5rem;
     text-align: center;
-    background: linear-gradient(160deg, #B71C1C 0%, #E53935 100%);
+    background: linear-gradient(135deg, rgba(44, 62, 80, 0.85) 0%, rgba(52, 73, 94, 0.85) 100%), url('https://images.unsplash.com/photo-1516534775068-bb57a52c1f47?w=1920&q=80');
+    background-size: cover;
+    background-position: center;
     color: #fff;
     position: relative;
 }
@@ -217,7 +219,7 @@ img {
 .page-hero {
     padding: 4rem 1.5rem;
     text-align: center;
-    background: linear-gradient(160deg, #B71C1C 0%, #E53935 100%);
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
     color: #fff;
 }
 
@@ -301,7 +303,7 @@ img {
 }
 
 .cta-section {
-    background: var(--primary);
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
     color: #fff;
     text-align: center;
 }
@@ -349,12 +351,13 @@ img {
     border-radius: var(--card-radius);
     box-shadow: var(--shadow);
     transition: var(--transition);
-    border-top: 4px solid var(--accent);
+    border-left: 4px solid var(--accent);
 }
 
 .service-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-8px);
     box-shadow: var(--shadow-lg);
+    border-left: 4px solid #0e6251;
 }
 
 .service-card h3 {
@@ -559,7 +562,7 @@ img {
    Footer
    ============================================ */
 .site-footer {
-    background: var(--primary);
+    background: #2c3e50;
     color: #fff;
     padding: 3rem 0 0;
 }
@@ -589,7 +592,7 @@ img {
 
 .footer-links h4,
 .footer-contact h4 {
-    color: var(--accent);
+    color: #16a085;
     margin-bottom: 0.75rem;
 }
 

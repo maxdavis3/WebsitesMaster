@@ -1,0 +1,366 @@
+Enabling GitHub Pages for newly migrated repositories...
+Log file: github_pages_remaining_log_20260211_191300.txt
+
+Found       88 repositories to enable GitHub Pages
+
+[1;33m[1/      88] Enabling GitHub Pages: kingpapi.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/kingpapi.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/kingpapi.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[2/      88] Enabling GitHub Pages: lednemahead.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/lednemahead.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/lednemahead.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[3/      88] Enabling GitHub Pages: levitatemetals.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/levitatemetals.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/levitatemetals.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[4/      88] Enabling GitHub Pages: litmirrors.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/litmirrors.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/litmirrors.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[5/      88] Enabling GitHub Pages: lunarculture.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/lunarculture.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/lunarculture.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[6/      88] Enabling GitHub Pages: lunarform.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/lunarform.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/lunarform.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[7/      88] Enabling GitHub Pages: lvttn.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/lvttn.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/lvttn.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[8/      88] Enabling GitHub Pages: mackease.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/mackease.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/mackease.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[9/      88] Enabling GitHub Pages: make3d.us[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/make3d.us/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/make3d.us/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[10/      88] Enabling GitHub Pages: matterplant.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/matterplant.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/matterplant.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[11/      88] Enabling GitHub Pages: max-cnc.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/max-cnc.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/max-cnc.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[12/      88] Enabling GitHub Pages: max3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/max3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/max3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[13/      88] Enabling GitHub Pages: maxdavis.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/maxdavis.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/maxdavis.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[14/      88] Enabling GitHub Pages: maxdavisgroup.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/maxdavisgroup.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/maxdavisgroup.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[15/      88] Enabling GitHub Pages: maxmakesthings.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/maxmakesthings.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/maxmakesthings.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[16/      88] Enabling GitHub Pages: maxthealchemist.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/maxthealchemist.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/maxthealchemist.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[17/      88] Enabling GitHub Pages: maxtherobot.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/maxtherobot.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/maxtherobot.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[18/      88] Enabling GitHub Pages: metal3dprint.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprint.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprint.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[19/      88] Enabling GitHub Pages: metal3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[20/      88] Enabling GitHub Pages: metal3dprint.net[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprint.net/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprint.net/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[21/      88] Enabling GitHub Pages: metal3dprint.org[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprint.org/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprint.org/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[22/      88] Enabling GitHub Pages: metal3dprinting.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprinting.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprinting.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[23/      88] Enabling GitHub Pages: metal3dprints.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprints.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprints.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[24/      88] Enabling GitHub Pages: metal3dprints.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metal3dprints.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metal3dprints.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[25/      88] Enabling GitHub Pages: metalpowder.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metalpowder.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metalpowder.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[26/      88] Enabling GitHub Pages: metalpowdr.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metalpowdr.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metalpowdr.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[27/      88] Enabling GitHub Pages: metalprint3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/metalprint3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/metalprint3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[28/      88] Enabling GitHub Pages: micro3dmetal.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/micro3dmetal.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/micro3dmetal.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[29/      88] Enabling GitHub Pages: micro3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/micro3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/micro3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[30/      88] Enabling GitHub Pages: mndla.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/mndla.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/mndla.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[31/      88] Enabling GitHub Pages: mngrm.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/mngrm.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/mngrm.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[32/      88] Enabling GitHub Pages: moonbear3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/moonbear3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/moonbear3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[33/      88] Enabling GitHub Pages: moonbearco.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/moonbearco.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/moonbearco.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[34/      88] Enabling GitHub Pages: moonbearmfg.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/moonbearmfg.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/moonbearmfg.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[35/      88] Enabling GitHub Pages: mundane.store[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/mundane.store/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/mundane.store/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[36/      88] Enabling GitHub Pages: mundanestore.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/mundanestore.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/mundanestore.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[37/      88] Enabling GitHub Pages: murray-foods.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/murray-foods.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/murray-foods.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[38/      88] Enabling GitHub Pages: n33d3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/n33d3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/n33d3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[39/      88] Enabling GitHub Pages: n3rb.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/n3rb.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/n3rb.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[40/      88] Enabling GitHub Pages: ne3ded.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/ne3ded.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/ne3ded.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[41/      88] Enabling GitHub Pages: nemahead.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/nemahead.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/nemahead.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[42/      88] Enabling GitHub Pages: nuehomes.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/nuehomes.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/nuehomes.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[43/      88] Enabling GitHub Pages: olamandnephesh.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/olamandnephesh.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/olamandnephesh.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[44/      88] Enabling GitHub Pages: phlsphr.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/phlsphr.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/phlsphr.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[45/      88] Enabling GitHub Pages: powderedmetal.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/powderedmetal.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/powderedmetal.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[46/      88] Enabling GitHub Pages: powderfy.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/powderfy.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/powderfy.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[47/      88] Enabling GitHub Pages: print3dmetal.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/print3dmetal.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/print3dmetal.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[48/      88] Enabling GitHub Pages: printing3dmetal.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/printing3dmetal.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/printing3dmetal.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[49/      88] Enabling GitHub Pages: printmetal3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/printmetal3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/printmetal3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[50/      88] Enabling GitHub Pages: printship.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/printship.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/printship.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[51/      88] Enabling GitHub Pages: r5ty.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/r5ty.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/r5ty.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[52/      88] Enabling GitHub Pages: regularthing.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/regularthing.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/regularthing.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[53/      88] Enabling GitHub Pages: regularthings.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/regularthings.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/regularthings.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[54/      88] Enabling GitHub Pages: ribmountainaggregate.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/ribmountainaggregate.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/ribmountainaggregate.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[55/      88] Enabling GitHub Pages: roadwaysolar.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/roadwaysolar.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/roadwaysolar.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[56/      88] Enabling GitHub Pages: robot3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/robot3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/robot3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[57/      88] Enabling GitHub Pages: robotghost.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/robotghost.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/robotghost.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[58/      88] Enabling GitHub Pages: rooftopracking.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/rooftopracking.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/rooftopracking.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[59/      88] Enabling GitHub Pages: sacredgeometry.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sacredgeometry.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sacredgeometry.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[60/      88] Enabling GitHub Pages: sacredgeometrydaily.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sacredgeometrydaily.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sacredgeometrydaily.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[61/      88] Enabling GitHub Pages: sacredgeometrysociety.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sacredgeometrysociety.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sacredgeometrysociety.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[62/      88] Enabling GitHub Pages: send3dprintsend.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/send3dprintsend.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/send3dprintsend.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[63/      88] Enabling GitHub Pages: sendcutship.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sendcutship.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sendcutship.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[64/      88] Enabling GitHub Pages: sharemachine.org[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sharemachine.org/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sharemachine.org/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[65/      88] Enabling GitHub Pages: shylab.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/shylab.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/shylab.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[66/      88] Enabling GitHub Pages: sphereandcube.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/sphereandcube.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/sphereandcube.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[67/      88] Enabling GitHub Pages: steel3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/steel3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/steel3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[68/      88] Enabling GitHub Pages: supersnooty.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/supersnooty.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/supersnooty.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[69/      88] Enabling GitHub Pages: thefarmchicago.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/thefarmchicago.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/thefarmchicago.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[70/      88] Enabling GitHub Pages: theholobox.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/theholobox.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/theholobox.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[71/      88] Enabling GitHub Pages: theholocube.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/theholocube.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/theholocube.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[72/      88] Enabling GitHub Pages: themostsacred.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/themostsacred.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/themostsacred.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[73/      88] Enabling GitHub Pages: thepothelps.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/thepothelps.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/thepothelps.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[74/      88] Enabling GitHub Pages: thesis3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/thesis3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/thesis3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[75/      88] Enabling GitHub Pages: tile3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/tile3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/tile3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[76/      88] Enabling GitHub Pages: titanium3dprint.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/titanium3dprint.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/titanium3dprint.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[77/      88] Enabling GitHub Pages: urbin.us[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/urbin.us/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/urbin.us/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[78/      88] Enabling GitHub Pages: volcaneum.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/volcaneum.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/volcaneum.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[79/      88] Enabling GitHub Pages: werewolf.tech[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/werewolf.tech/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/werewolf.tech/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[80/      88] Enabling GitHub Pages: werewolf3d.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/werewolf3d.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/werewolf3d.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[81/      88] Enabling GitHub Pages: werewolfmfg.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/werewolfmfg.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/werewolfmfg.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[82/      88] Enabling GitHub Pages: winsomewall.co[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/winsomewall.co/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/winsomewall.co/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[83/      88] Enabling GitHub Pages: winsomewallco.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/winsomewallco.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/winsomewallco.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[84/      88] Enabling GitHub Pages: winsomewalls.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/winsomewalls.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/winsomewalls.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[85/      88] Enabling GitHub Pages: wiy.io[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/wiy.io/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/wiy.io/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[86/      88] Enabling GitHub Pages: yerbox.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/yerbox.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/yerbox.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[87/      88] Enabling GitHub Pages: zaddywarbucks.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/zaddywarbucks.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/zaddywarbucks.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+[1;33m[88/      88] Enabling GitHub Pages: zaddywarbux.com[0m
+[0;32m  ✓ GitHub Pages enabled successfully[0m
+{"url":"https://api.github.com/repos/maxdavis3/zaddywarbux.com/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://maxdavis3.github.io/zaddywarbux.com/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}
+
+=====================================
+GitHub Pages Enablement Summary:
+=====================================
+Total repositories: 88
+[0;32mSuccessfully enabled: 88[0m
+[1;33mAlready enabled: 0[0m
+[0;31mFailed: 0[0m
+=====================================
+Log saved to: github_pages_remaining_log_20260211_191300.txt

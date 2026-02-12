@@ -1,0 +1,622 @@
+Starting migration process...
+Log file: migration_log_20260211_182808.txt
+
+[1;33m[1] Processing: 36cents.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/36cents.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/36cents.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) c3c5c19] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1417 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/maxdavis3/36cents.com.git/'
+[0;31m  ✗ Failed to push 36cents.com[0m
+
+[1;33m[2] Processing: 3d-print-metal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3d-print-metal.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3d-print-metal.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 7d6541f] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1417 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3d-print-metal.com[0m
+
+[1;33m[3] Processing: 3d-printmetal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3d-printmetal.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3d-printmetal.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) b343ef6] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3d-printmetal.com[0m
+
+[1;33m[4] Processing: 3dacademy.org[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dacademy.org
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dacademy.org/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) c1674e1] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dacademy.org[0m
+
+[1;33m[5] Processing: 3dmetal.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dmetal.co
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dmetal.co/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 8bcb071] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dmetal.co[0m
+
+[1;33m[6] Processing: 3dmetalprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dmetalprint.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dmetalprint.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 73174dd] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dmetalprint.com[0m
+
+[1;33m[7] Processing: 3dp.xyz[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dp.xyz
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dp.xyz/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 0448b49] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dp.xyz[0m
+
+[1;33m[8] Processing: 3dprint-metal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprint-metal.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprint-metal.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) ae0a1f4] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprint-metal.com[0m
+
+[1;33m[9] Processing: 3dprint.academy[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprint.academy
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprint.academy/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 1993d0d] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprint.academy[0m
+
+[1;33m[10] Processing: 3dprint.space[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprint.space
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprint.space/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 60b27c8] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprint.space[0m
+
+[1;33m[11] Processing: 3dprintarchitecture.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprintarchitecture.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprintarchitecture.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 3447d46] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprintarchitecture.com[0m
+
+[1;33m[12] Processing: 3dprintbone.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprintbone.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprintbone.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 41a1495] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprintbone.com[0m
+
+[1;33m[13] Processing: 3dprintcakes.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprintcakes.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprintcakes.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 859f8a5] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1417 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprintcakes.com[0m
+
+[1;33m[14] Processing: 3dprintcapacitors.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/3dprintcapacitors.com
+X Unable to add remote "origin"
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/3dprintcapacitors.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 2faa81b] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+fatal: could not read Username for 'https://github.com': Device not configured
+[0;31m  ✗ Failed to push 3dprintcapacitors.com[0m
+
+[1;33m[15] Processing: 3dprintcells.com[0m
+  Creating GitHub repository...

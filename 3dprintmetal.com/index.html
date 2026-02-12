@@ -3,112 +3,221 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="3D Printmetal - Precision Metal Parts, Printed to Perfection. Professional services and solutions for 3d metal printing. Contact us today for a free consulta...">
-    <meta name="keywords" content="3d metal printing, 3dprintmetal, metal, printing, professional services, quality, innovation">
-    <meta property="og:title" content="3D Printmetal | Precision Metal Parts, Printed to Perfection">
-    <meta property="og:description" content="3D Printmetal - Precision Metal Parts, Printed to Perfection. Professional services and solutions for 3d metal printing. Contact us today for a free consulta...">
+    <meta name="description" content="3D Printmetal - Precision Metal Parts, Printed to Perfection. Advanced metal additive manufacturing for aerospace, medical, and industrial applications.">
+    <meta name="keywords" content="3d metal printing, additive manufacturing, DMLS, metal prototyping, precision engineering">
+    <meta property="og:title" content="3D Printmetal | Precision Metal Additive Manufacturing">
+    <meta property="og:description" content="Leading provider of advanced metal 3D printing services. Titanium, stainless steel, aluminum alloys.">
     <meta property="og:type" content="website">
-    <title>3D Printmetal - Home</title>
+    <meta property="og:image" content="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200">
+    <title>3D Printmetal | Advanced Metal Additive Manufacturing</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Orbitron:wght@400;500;600;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div class="grain-overlay"></div>
+
     <header class="site-header">
         <nav class="navbar">
             <div class="nav-container">
-                <a href="index.html" class="nav-logo">3D Printmetal</a>
+                <a href="index.html" class="nav-logo">
+                    <span class="logo-bracket">[</span>
+                    <span class="logo-text">3D PRINTMETAL</span>
+                    <span class="logo-bracket">]</span>
+                </a>
                 <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
                     <span class="hamburger"></span>
                 </button>
                 <ul class="nav-menu">
-            <li><a href="index.html" class="active">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.html" class="nav-link active">Home</a></li>
+                    <li><a href="about.html" class="nav-link">About</a></li>
+                    <li><a href="services.html" class="nav-link">Services</a></li>
+                    <li><a href="contact.html" class="nav-link">Contact</a></li>
                 </ul>
             </div>
         </nav>
     </header>
 
     <main>
-        <section class="hero">
+        <section class="hero" style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%), linear-gradient(135deg, #2C3E50 0%, #34495E 100%); background-size: cover; background-position: center;">
+            <div class="hero-background">
+                <img src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920&q=80" alt="Metal 3D Printing" loading="lazy">
+                <div class="hero-overlay"></div>
+            </div>
             <div class="hero-content">
-                <h1>Welcome to 3D Printmetal</h1>
-                <p class="hero-subtitle">Precision Metal Parts, Printed to Perfection. We deliver innovative solutions that drive results and exceed expectations.</p>
+                <div class="hero-badge">PRECISION ENGINEERED</div>
+                <h1 class="hero-title">
+                    <span class="title-line">ADVANCED</span>
+                    <span class="title-line highlight">METAL</span>
+                    <span class="title-line">ADDITIVE</span>
+                </h1>
+                <p class="hero-subtitle">Manufacturing the future with precision metal 3D printing. From prototype to production.</p>
                 <div class="hero-actions">
-                    <a href="services.html" class="btn btn-primary">Our Services</a>
-                    <a href="contact.html" class="btn btn-secondary">Get a Quote</a>
+                    <a href="services.html" class="btn btn-primary">Explore Services</a>
+                    <a href="contact.html" class="btn btn-secondary">Request Quote</a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <div class="stat-number">99.7%</div>
+                        <div class="stat-label">Accuracy</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">10+</div>
+                        <div class="stat-label">Materials</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">24/7</div>
+                        <div class="stat-label">Production</div>
+                    </div>
+                </div>
+            </div>
+            <div class="scroll-indicator">
+                <div class="scroll-line"></div>
+                <span>SCROLL</span>
+            </div>
+        </section>
+
+        <section class="process-section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-label">OUR TECHNOLOGY</span>
+                    <h2 class="section-title">Next-Gen Manufacturing</h2>
+                </div>
+                <div class="process-grid">
+                    <div class="process-card" data-aos="fade-up">
+                        <div class="card-number">01</div>
+                        <div class="card-image">
+                            <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=600&q=80" alt="CAD Design">
+                        </div>
+                        <h3>CAD to Reality</h3>
+                        <p>Transform complex 3D models into precision metal parts with micron-level accuracy.</p>
+                    </div>
+                    <div class="process-card" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card-number">02</div>
+                        <div class="card-image">
+                            <img src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?w=600&q=80" alt="Laser Sintering">
+                        </div>
+                        <h3>Laser Precision</h3>
+                        <p>Advanced DMLS technology builds parts layer by layer with unmatched detail.</p>
+                    </div>
+                    <div class="process-card" data-aos="fade-up" data-aos-delay="200">
+                        <div class="card-number">03</div>
+                        <div class="card-image">
+                            <img src="https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=600&q=80" alt="Quality Control">
+                        </div>
+                        <h3>Post Processing</h3>
+                        <p>Expert finishing including heat treatment, CNC machining, and surface coating.</p>
+                    </div>
                 </div>
             </div>
         </section>
 
-        <section class="intro-section">
-            <div class="container">
-                <h2>Why Choose 3D Printmetal?</h2>
-                <p class="intro-text">At 3D Printmetal, we specialize in delivering top-tier 3d metal printing solutions. Our experienced team combines industry expertise with innovative approaches to help you achieve outstanding results. Whether you are looking for comprehensive services or targeted solutions, we have the capabilities to meet your needs.</p>
+        <section class="materials-section">
+            <div class="container-wide">
+                <div class="materials-content">
+                    <div class="materials-info">
+                        <span class="section-label">MATERIALS</span>
+                        <h2>Engineering-Grade Metals</h2>
+                        <p>We work with a comprehensive range of metal alloys optimized for additive manufacturing.</p>
+                        <ul class="materials-list">
+                            <li><span class="material-icon">●</span> Titanium Ti6Al4V</li>
+                            <li><span class="material-icon">●</span> Stainless Steel 316L</li>
+                            <li><span class="material-icon">●</span> Aluminum AlSi10Mg</li>
+                            <li><span class="material-icon">●</span> Inconel 718</li>
+                            <li><span class="material-icon">●</span> Tool Steel H13</li>
+                            <li><span class="material-icon">●</span> Cobalt Chrome</li>
+                        </ul>
+                        <a href="services.html" class="btn btn-outline">View All Materials</a>
+                    </div>
+                    <div class="materials-visual">
+                        <img src="https://images.unsplash.com/photo-1624841970647-87dce8628d72?w=800&q=80" alt="Metal Materials">
+                        <div class="visual-accent"></div>
+                    </div>
+                </div>
             </div>
         </section>
 
-        <section class="services-overview">
+        <section class="industries-section">
             <div class="container">
-                <h2>Our Services</h2>
-                <p class="section-subtitle">Explore our comprehensive range of 3d metal printing solutions</p>
-                <div class="services-grid">
-                <div class="service-card">
-                    <h3>Direct Metal Laser Sintering</h3>
-                    <p>High-precision metal 3D printing using advanced DMLS technology for complex geometries and functional parts.</p>
-                    <a href="services.html" class="card-link">Learn More</a>
+                <div class="section-header center">
+                    <span class="section-label">INDUSTRIES</span>
+                    <h2>Trusted Across Sectors</h2>
                 </div>
-                <div class="service-card">
-                    <h3>Metal Prototyping</h3>
-                    <p>Rapid prototyping services in various metals including stainless steel, titanium, and aluminum alloys.</p>
-                    <a href="services.html" class="card-link">Learn More</a>
-                </div>
-                <div class="service-card">
-                    <h3>Production Metal Parts</h3>
-                    <p>End-use metal component manufacturing with consistent quality and tight tolerances.</p>
-                    <a href="services.html" class="card-link">Learn More</a>
-                </div>
-                <div class="service-card">
-                    <h3>Post-Processing &amp; Finishing</h3>
-                    <p>Complete finishing services including heat treatment, CNC machining, polishing, and surface coating.</p>
-                    <a href="services.html" class="card-link">Learn More</a>
-                </div>
+                <div class="industries-grid">
+                    <div class="industry-card">
+                        <div class="industry-icon">✈</div>
+                        <h3>Aerospace</h3>
+                        <p>Lightweight titanium components for aircraft and satellites</p>
+                    </div>
+                    <div class="industry-card">
+                        <div class="industry-icon">+</div>
+                        <h3>Medical</h3>
+                        <p>Biocompatible implants and surgical instruments</p>
+                    </div>
+                    <div class="industry-card">
+                        <div class="industry-icon">⚙</div>
+                        <h3>Industrial</h3>
+                        <p>Custom tooling and production-grade parts</p>
+                    </div>
+                    <div class="industry-card">
+                        <div class="industry-icon">⚡</div>
+                        <h3>Energy</h3>
+                        <p>High-temperature components for extreme environments</p>
+                    </div>
                 </div>
             </div>
         </section>
 
         <section class="cta-section">
-            <div class="container">
-                <h2>Ready to Get Started?</h2>
-                <p>Contact us today to discuss your 3d metal printing needs and discover how we can help you succeed.</p>
-                <a href="contact.html" class="btn btn-primary btn-large">Request a Free Quote</a>
+            <div class="cta-content">
+                <h2>Ready to Manufacture?</h2>
+                <p>Get a quote for your metal 3D printing project today</p>
+                <a href="contact.html" class="btn btn-large">Start Your Project</a>
+            </div>
+            <div class="cta-background">
+                <img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1920&q=80" alt="Manufacturing">
             </div>
         </section>
     </main>
 
     <footer class="site-footer">
         <div class="footer-container">
-            <div class="footer-content">
+            <div class="footer-main">
                 <div class="footer-brand">
-                    <h3>3D Printmetal</h3>
-                    <p>Precision Metal Parts, Printed to Perfection</p>
+                    <div class="footer-logo">
+                        <span class="logo-bracket">[</span>
+                        <span>3D PRINTMETAL</span>
+                        <span class="logo-bracket">]</span>
+                    </div>
+                    <p>Precision Metal Additive Manufacturing</p>
                 </div>
                 <div class="footer-links">
-                    <h4>Quick Links</h4>
-                    <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </div>
-                <div class="footer-contact">
-                    <h4>Get In Touch</h4>
-                    <p>Ready to start your next project?</p>
-                    <a href="contact.html" class="footer-cta">Contact Us</a>
+                    <div class="footer-column">
+                        <h4>Company</h4>
+                        <ul>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Services</h4>
+                        <ul>
+                            <li><a href="services.html">DMLS Printing</a></li>
+                            <li><a href="services.html">Prototyping</a></li>
+                            <li><a href="services.html">Production</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Contact</h4>
+                        <ul>
+                            <li>info@3dprintmetal.com</li>
+                            <li>1-800-3D-METAL</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
             <div class="footer-bottom">
@@ -116,6 +225,7 @@
             </div>
         </div>
     </footer>
+
     <script src="js/main.js"></script>
 </body>
 </html>

@@ -5,13 +5,13 @@
 
 /* CSS Custom Properties */
 :root {
-    --primary: #1A237E;
-    --secondary: #222C90;
-    --accent: #FFE082;
-    --background: #E8EAF6;
-    --text: #101650;
-    --font-heading: 'Raleway', sans-serif;
-    --font-body: 'DM Sans', sans-serif;
+    --primary: #27533f;
+    --secondary: #38755a;
+    --accent: #d4927d;
+    --background: #faf8f3;
+    --text: #3d3d3d;
+    --font-heading: 'Georgia', serif;
+    --font-body: 'Poppins', sans-serif;
     --radius: 12px;
     --card-radius: 16px;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
@@ -179,7 +179,9 @@ img {
 .hero {
     padding: 6rem 1.5rem;
     text-align: center;
-    background: linear-gradient(135deg, #1A237E 0%, #222C90 50%, #FFE082 100%);
+    background: linear-gradient(135deg, rgba(39, 83, 63, 0.82) 0%, rgba(56, 117, 90, 0.82) 100%), url('https://images.unsplash.com/photo-1488921033391-beabc6c6ac10?w=1920&q=80');
+    background-size: cover;
+    background-position: center;
     color: #fff;
     position: relative;
 }
@@ -217,7 +219,7 @@ img {
 .page-hero {
     padding: 4rem 1.5rem;
     text-align: center;
-    background: linear-gradient(160deg, #1A237E 0%, #222C90 100%);
+    background: linear-gradient(135deg, #27533f 0%, #38755a 100%);
     color: #fff;
 }
 
@@ -301,7 +303,7 @@ img {
 }
 
 .cta-section {
-    background: var(--primary);
+    background: linear-gradient(135deg, #27533f 0%, #38755a 100%);
     color: #fff;
     text-align: center;
 }
@@ -349,12 +351,13 @@ img {
     border-radius: var(--card-radius);
     box-shadow: var(--shadow);
     transition: var(--transition);
-    border-top: 4px solid var(--accent);
+    border-left: 4px solid #8b6f47;
 }
 
 .service-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-8px);
     box-shadow: var(--shadow-lg);
+    border-left: 4px solid #6b543a;
 }
 
 .service-card h3 {
@@ -559,7 +562,7 @@ img {
    Footer
    ============================================ */
 .site-footer {
-    background: var(--primary);
+    background: #27533f;
     color: #fff;
     padding: 3rem 0 0;
 }
@@ -589,7 +592,7 @@ img {
 
 .footer-links h4,
 .footer-contact h4 {
-    color: var(--accent);
+    color: #d4927d;
     margin-bottom: 0.75rem;
 }
 

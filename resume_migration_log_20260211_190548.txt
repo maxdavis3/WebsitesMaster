@@ -1,0 +1,1367 @@
+Resuming migration process for remaining websites...
+Log file: resume_migration_log_20260211_190548.txt
+
+Found       88 websites to migrate
+
+[1;33m[1/      88] Processing: kingpapi.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/kingpapi.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/kingpapi.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated kingpapi.com[0m
+
+[1;33m[2/      88] Processing: lednemahead.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/lednemahead.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/lednemahead.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated lednemahead.com[0m
+
+[1;33m[3/      88] Processing: levitatemetals.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/levitatemetals.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/levitatemetals.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated levitatemetals.com[0m
+
+[1;33m[4/      88] Processing: litmirrors.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/litmirrors.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/litmirrors.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated litmirrors.com[0m
+
+[1;33m[5/      88] Processing: lunarculture.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/lunarculture.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/lunarculture.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated lunarculture.com[0m
+
+[1;33m[6/      88] Processing: lunarform.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/lunarform.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/lunarform.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated lunarform.com[0m
+
+[1;33m[7/      88] Processing: lvttn.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/lvttn.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/lvttn.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated lvttn.com[0m
+
+[1;33m[8/      88] Processing: mackease.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/mackease.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/mackease.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated mackease.com[0m
+
+[1;33m[9/      88] Processing: make3d.us[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/make3d.us
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/make3d.us.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated make3d.us[0m
+
+[1;33m[10/      88] Processing: matterplant.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/matterplant.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/matterplant.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated matterplant.com[0m
+
+[1;33m[11/      88] Processing: max-cnc.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/max-cnc.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/max-cnc.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated max-cnc.com[0m
+
+[1;33m[12/      88] Processing: max3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/max3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/max3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated max3dprint.com[0m
+
+[1;33m[13/      88] Processing: maxdavis.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/maxdavis.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/maxdavis.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated maxdavis.co[0m
+
+[1;33m[14/      88] Processing: maxdavisgroup.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/maxdavisgroup.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/maxdavisgroup.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated maxdavisgroup.com[0m
+
+[1;33m[15/      88] Processing: maxmakesthings.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/maxmakesthings.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/maxmakesthings.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated maxmakesthings.com[0m
+
+[1;33m[16/      88] Processing: maxthealchemist.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/maxthealchemist.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/maxthealchemist.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated maxthealchemist.com[0m
+
+[1;33m[17/      88] Processing: maxtherobot.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/maxtherobot.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/maxtherobot.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated maxtherobot.com[0m
+
+[1;33m[18/      88] Processing: metal3dprint.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprint.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprint.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprint.co[0m
+
+[1;33m[19/      88] Processing: metal3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprint.com[0m
+
+[1;33m[20/      88] Processing: metal3dprint.net[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprint.net
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprint.net.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprint.net[0m
+
+[1;33m[21/      88] Processing: metal3dprint.org[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprint.org
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprint.org.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprint.org[0m
+
+[1;33m[22/      88] Processing: metal3dprinting.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprinting.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprinting.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprinting.co[0m
+
+[1;33m[23/      88] Processing: metal3dprints.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprints.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprints.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprints.co[0m
+
+[1;33m[24/      88] Processing: metal3dprints.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metal3dprints.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metal3dprints.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metal3dprints.com[0m
+
+[1;33m[25/      88] Processing: metalpowder.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metalpowder.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metalpowder.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metalpowder.co[0m
+
+[1;33m[26/      88] Processing: metalpowdr.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metalpowdr.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metalpowdr.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metalpowdr.com[0m
+
+[1;33m[27/      88] Processing: metalprint3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/metalprint3d.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/metalprint3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated metalprint3d.com[0m
+
+[1;33m[28/      88] Processing: micro3dmetal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/micro3dmetal.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/micro3dmetal.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated micro3dmetal.com[0m
+
+[1;33m[29/      88] Processing: micro3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/micro3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/micro3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated micro3dprint.com[0m
+
+[1;33m[30/      88] Processing: mndla.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/mndla.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/mndla.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated mndla.com[0m
+
+[1;33m[31/      88] Processing: mngrm.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/mngrm.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/mngrm.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated mngrm.com[0m
+
+[1;33m[32/      88] Processing: moonbear3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/moonbear3d.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/moonbear3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated moonbear3d.com[0m
+
+[1;33m[33/      88] Processing: moonbearco.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/moonbearco.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/moonbearco.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated moonbearco.com[0m
+
+[1;33m[34/      88] Processing: moonbearmfg.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/moonbearmfg.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/moonbearmfg.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated moonbearmfg.com[0m
+
+[1;33m[35/      88] Processing: mundane.store[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/mundane.store
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/mundane.store.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated mundane.store[0m
+
+[1;33m[36/      88] Processing: mundanestore.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/mundanestore.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/mundanestore.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated mundanestore.com[0m
+
+[1;33m[37/      88] Processing: murray-foods.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/murray-foods.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/murray-foods.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated murray-foods.com[0m
+
+[1;33m[38/      88] Processing: n33d3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/n33d3d.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/n33d3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated n33d3d.com[0m
+
+[1;33m[39/      88] Processing: n3rb.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/n3rb.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/n3rb.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated n3rb.com[0m
+
+[1;33m[40/      88] Processing: ne3ded.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/ne3ded.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/ne3ded.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated ne3ded.com[0m
+
+[1;33m[41/      88] Processing: nemahead.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/nemahead.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/nemahead.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated nemahead.com[0m
+
+[1;33m[42/      88] Processing: nuehomes.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/nuehomes.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/nuehomes.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated nuehomes.com[0m
+
+[1;33m[43/      88] Processing: olamandnephesh.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/olamandnephesh.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/olamandnephesh.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated olamandnephesh.com[0m
+
+[1;33m[44/      88] Processing: phlsphr.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/phlsphr.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/phlsphr.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated phlsphr.com[0m
+
+[1;33m[45/      88] Processing: powderedmetal.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/powderedmetal.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/powderedmetal.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated powderedmetal.co[0m
+
+[1;33m[46/      88] Processing: powderfy.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/powderfy.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/powderfy.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated powderfy.com[0m
+
+[1;33m[47/      88] Processing: print3dmetal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/print3dmetal.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/print3dmetal.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated print3dmetal.com[0m
+
+[1;33m[48/      88] Processing: printing3dmetal.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/printing3dmetal.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/printing3dmetal.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated printing3dmetal.com[0m
+
+[1;33m[49/      88] Processing: printmetal3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/printmetal3d.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/printmetal3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated printmetal3d.com[0m
+
+[1;33m[50/      88] Processing: printship.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/printship.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/printship.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated printship.co[0m
+
+[1;33m[51/      88] Processing: r5ty.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/r5ty.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/r5ty.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated r5ty.com[0m
+
+[1;33m[52/      88] Processing: regularthing.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/regularthing.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/regularthing.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated regularthing.com[0m
+
+[1;33m[53/      88] Processing: regularthings.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/regularthings.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/regularthings.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated regularthings.com[0m
+
+[1;33m[54/      88] Processing: ribmountainaggregate.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/ribmountainaggregate.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/ribmountainaggregate.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated ribmountainaggregate.com[0m
+
+[1;33m[55/      88] Processing: roadwaysolar.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/roadwaysolar.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/roadwaysolar.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated roadwaysolar.com[0m
+
+[1;33m[56/      88] Processing: robot3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/robot3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/robot3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated robot3dprint.com[0m
+
+[1;33m[57/      88] Processing: robotghost.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/robotghost.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/robotghost.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated robotghost.co[0m
+
+[1;33m[58/      88] Processing: rooftopracking.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/rooftopracking.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/rooftopracking.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated rooftopracking.com[0m
+
+[1;33m[59/      88] Processing: sacredgeometry.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sacredgeometry.co
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sacredgeometry.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sacredgeometry.co[0m
+
+[1;33m[60/      88] Processing: sacredgeometrydaily.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sacredgeometrydaily.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sacredgeometrydaily.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sacredgeometrydaily.com[0m
+
+[1;33m[61/      88] Processing: sacredgeometrysociety.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sacredgeometrysociety.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sacredgeometrysociety.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sacredgeometrysociety.com[0m
+
+[1;33m[62/      88] Processing: send3dprintsend.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/send3dprintsend.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/send3dprintsend.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated send3dprintsend.com[0m
+
+[1;33m[63/      88] Processing: sendcutship.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sendcutship.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sendcutship.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sendcutship.com[0m
+
+[1;33m[64/      88] Processing: sharemachine.org[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sharemachine.org
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sharemachine.org.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sharemachine.org[0m
+
+[1;33m[65/      88] Processing: shylab.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/shylab.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/shylab.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated shylab.com[0m
+
+[1;33m[66/      88] Processing: sphereandcube.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/sphereandcube.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/sphereandcube.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated sphereandcube.com[0m
+
+[1;33m[67/      88] Processing: steel3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/steel3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/steel3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated steel3dprint.com[0m
+
+[1;33m[68/      88] Processing: supersnooty.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/supersnooty.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/supersnooty.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated supersnooty.com[0m
+
+[1;33m[69/      88] Processing: thefarmchicago.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/thefarmchicago.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/thefarmchicago.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated thefarmchicago.com[0m
+
+[1;33m[70/      88] Processing: theholobox.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/theholobox.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/theholobox.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated theholobox.com[0m
+
+[1;33m[71/      88] Processing: theholocube.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/theholocube.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/theholocube.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated theholocube.com[0m
+
+[1;33m[72/      88] Processing: themostsacred.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/themostsacred.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/themostsacred.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated themostsacred.com[0m
+
+[1;33m[73/      88] Processing: thepothelps.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/thepothelps.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/thepothelps.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated thepothelps.com[0m
+
+[1;33m[74/      88] Processing: thesis3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/thesis3d.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/thesis3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated thesis3d.com[0m
+
+[1;33m[75/      88] Processing: tile3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/tile3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/tile3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated tile3dprint.com[0m
+
+[1;33m[76/      88] Processing: titanium3dprint.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/titanium3dprint.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/titanium3dprint.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated titanium3dprint.com[0m
+
+[1;33m[77/      88] Processing: urbin.us[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/urbin.us
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/urbin.us.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated urbin.us[0m
+
+[1;33m[78/      88] Processing: volcaneum.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/volcaneum.com
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/volcaneum.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated volcaneum.com[0m
+
+[1;33m[79/      88] Processing: werewolf.tech[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/werewolf.tech
+[0;32m  ✓ Repository created[0m
+  Adding files...
+  No changes to commit (already committed)...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/werewolf.tech.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated werewolf.tech[0m
+
+[1;33m[80/      88] Processing: werewolf3d.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/werewolf3d.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/werewolf3d.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 2daf481] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/werewolf3d.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated werewolf3d.com[0m
+
+[1;33m[81/      88] Processing: werewolfmfg.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/werewolfmfg.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/werewolfmfg.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 1987694] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/werewolfmfg.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated werewolfmfg.com[0m
+
+[1;33m[82/      88] Processing: winsomewall.co[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/winsomewall.co
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/winsomewall.co/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 0b2b835] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/winsomewall.co.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated winsomewall.co[0m
+
+[1;33m[83/      88] Processing: winsomewallco.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/winsomewallco.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/winsomewallco.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 3de39f7] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/winsomewallco.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated winsomewallco.com[0m
+
+[1;33m[84/      88] Processing: winsomewalls.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/winsomewalls.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/winsomewalls.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 94b1b57] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/winsomewalls.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated winsomewalls.com[0m
+
+[1;33m[85/      88] Processing: wiy.io[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/wiy.io
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/wiy.io/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) d76562c] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/wiy.io.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated wiy.io[0m
+
+[1;33m[86/      88] Processing: yerbox.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/yerbox.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/yerbox.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) 0bbb0c5] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/yerbox.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated yerbox.com[0m
+
+[1;33m[87/      88] Processing: zaddywarbucks.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/zaddywarbucks.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/zaddywarbucks.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) af1ca05] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1347 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/zaddywarbucks.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated zaddywarbucks.com[0m
+
+[1;33m[88/      88] Processing: zaddywarbux.com[0m
+  Creating GitHub repository...
+https://github.com/maxdavis3/zaddywarbux.com
+[0;32m  ✓ Repository created[0m
+  Initializing git repository...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint: 	git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint: 	git branch -m <name>
+Initialized empty Git repository in /Users/benstagl/WebsitesMaster/zaddywarbux.com/.git/
+  Adding files...
+  Creating initial commit...
+[master (root-commit) b1bcc89] Initial commit: migrated from WebsitesMaster repository
+ Committer: Benjamin Stagl <benstagl@Benjamins-MacBook-Pro-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1417 insertions(+)
+ create mode 100644 about.html
+ create mode 100644 contact.html
+ create mode 100644 css/style.css
+ create mode 100644 index.html
+ create mode 100644 js/main.js
+ create mode 100644 services.html
+  Adding remote...
+  Pushing to GitHub...
+To https://github.com/maxdavis3/zaddywarbux.com.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[0;32m  ✓ Successfully migrated zaddywarbux.com[0m
+
+=====================================
+Resume Migration Summary:
+=====================================
+Total directories: 88
+[0;32mSuccessfully migrated: 88[0m
+[0;31mFailed: 0[0m
+[1;33mSkipped: 0[0m
+=====================================
+Log saved to: resume_migration_log_20260211_190548.txt
